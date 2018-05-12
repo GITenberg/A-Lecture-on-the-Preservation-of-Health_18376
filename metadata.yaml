@@ -1,0 +1,26 @@
+_repo: A-Lecture-on-the-Preservation-of-Health_18376
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Garnett, Thomas
+    birthdate: 1766
+    deathdate: 1802
+    gutenberg_agent_id: '7990'
+    url: http://www.gutenberg.org/2009/agents/7990
+description: ''
+gutenberg_issued: '2006-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RA'
+- !lcsh 'Health -- Early works to 1800'
+title: A Lecture on the Preservation of Health
+url: http://www.gutenberg.org/ebooks/18376
